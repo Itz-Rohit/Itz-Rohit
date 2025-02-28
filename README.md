@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1003&color=F75B1B&background=2494FF00&multiline=true&width=435&lines=AI+%26+Machine+Learning+!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1003&color=F75B1B&background=2494FF00&multiline=true&width=435&lines= Data Science | Machine Learning | Turning Data into Insights " alt="Typing SVG" /></a>
   
 </p>
 
