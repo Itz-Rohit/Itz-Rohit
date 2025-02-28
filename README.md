@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://twitter.com/valorant_Reyna"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/erFEW1p.png"/></a>
+<!--   <a href="https://www.instagram.com/"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/erFEW1p.png"/></a> -->
 </p>
 <br/>
 
