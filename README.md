@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1003&color=F75B1B&background=2494FF00&center=true&vCenter=true&width=600&lines=Data+Science;Machine+Learning; AI Devops Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1003&color=F75B1B&background=2494FF00&center=true&vCenter=true&width=600&lines=Data+Science;Machine+Learning;AI+DevOps+Engineer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -15,11 +15,11 @@
   </a>
 </p>
 
----
+<hr style="border: 1px solid #ccc;"/>
 
-## 🛠️ My Favorite Tools  
+<h2>🛠️ My Favorite Tools</h2>
 
-### 👨‍💻 Programming and Markup Languages  
+<h3>👨‍💻 Programming and Markup Languages</h3>
 <p>
   <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"/>
   <img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"/>
@@ -30,13 +30,13 @@
   <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"/>
 </p>
 
-### 🧰 Frameworks and Libraries  
+<h3>🧰 Frameworks and Libraries</h3>
 <p>
   <img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"/>
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"/>
 </p>
 
-### 🗄️ Databases and Cloud Hosting  
+<h3>🗄️ Databases and Cloud Hosting</h3>
 <p>
   <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"/>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"/>
@@ -44,7 +44,7 @@
   <img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"/>
 </p>
 
-### 💻 Software and Tools  
+<h3>💻 Software and Tools</h3>
 <p>
   <img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"/>
   <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84.svg?logo=android&logoColor=white"/>
